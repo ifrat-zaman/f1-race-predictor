@@ -40,12 +40,12 @@ An interactive Formula 1 race prediction dashboard powered by machine learning a
    - Go to Settings → Pages
    - Select "Deploy from a branch"
    - Choose "main" branch
-3. **Access your dashboard** at `https://yourusername.github.io/repository-name`
+3. **Access your dashboard** at `https://github.com/ifrat-zaman/f1-race-predictor`
 
 ### Option 2: Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/f1-race-predictor.git
+git clone https://github.com/ifrat-zaman.git
 
 # Navigate to the project
 cd f1-race-predictor
@@ -57,20 +57,7 @@ open index.html
 
 ### Option 3: Online IDE
 - **GitHub Codespaces**: Click "Code" → "Codespaces" → "Create codespace"
-- **GitPod**: Visit `https://gitpod.io/#https://github.com/yourusername/f1-race-predictor`
-
-## 🏗️ Project Structure
-
-```
-f1-race-predictor/
-├── index.html              # Main dashboard file
-├── README.md              # This file
-├── LICENSE                # MIT License
-└── assets/               # Future assets (images, separate CSS/JS)
-    ├── images/
-    ├── css/
-    └── js/
-```
+- **GitPod**: Visit `https://gitpod.io/#https://github.com/ifrat-zaman/f1-race-predictor`
 
 ## 🤖 Machine Learning Model
 
@@ -190,22 +177,6 @@ We welcome contributions! Here's how you can help:
 - Test on multiple browsers
 - Update README if needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
 ## 🙏 Acknowledgments
 
 - **Formula 1**: For the inspiration and data
@@ -217,8 +188,6 @@ copies of the Software...
 
 - **GitHub Issues**: For bug reports and feature requests
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: [your.email@example.com]
-- **Twitter**: [@yourusername]
 
 ## 🔮 Future Roadmap
 
@@ -264,4 +233,4 @@ copies of the Software...
 
 ### 🏁 Ready to predict the future of Formula 1?
 
-**[🚀 Launch Dashboard](https://yourusername.github.io/f1-race-predictor)**
+**[🚀 Launch Dashboard](https://github.com/ifrat-zaman/f1-race-predictor)**
