@@ -8,9 +8,7 @@ An interactive Formula 1 race prediction dashboard powered by machine learning a
 
 ## 🌟 Live Demo
 
-**[🚀 View Live Dashboard](https://yourusername.github.io/f1-race-predictor)**
-
-*Replace `yourusername` with your actual GitHub username*
+**[🚀 View Live Dashboard](https://github.com/ifrat-zaman/f1-race-predictor)**
 
 ## ✨ Features
 
